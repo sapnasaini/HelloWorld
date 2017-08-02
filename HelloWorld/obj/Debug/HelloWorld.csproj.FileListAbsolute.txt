@@ -1,0 +1,11 @@
+C:\sapnasaini\HelloWorld-master\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\sapnasaini\HelloWorld-master\HelloWorld\bin\Debug\HelloWorld.exe
+C:\sapnasaini\HelloWorld-master\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\sapnasaini\HelloWorld-master\HelloWorld\obj\Debug\HelloWorld.exe
+C:\sapnasaini\HelloWorld-master\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\sapnasaini\HelloWorldApp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\sapnasaini\HelloWorldApp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\sapnasaini\HelloWorldApp\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\sapnasaini\HelloWorldApp\HelloWorld\bin\Debug\HelloWorld.exe
+C:\sapnasaini\HelloWorldApp\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\sapnasaini\HelloWorldApp\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
