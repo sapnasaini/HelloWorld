@@ -22,6 +22,10 @@ namespace HelloWorld
 
         }
 
+        /// <summary>
+        ///     Run the main Hello World Console Application
+        /// </summary>
+        /// <param name="arguments">The command line arguments.</param>
 
         public void Run(string[] arguments)
         {
@@ -43,7 +47,7 @@ namespace HelloWorld
                     Console.WriteLine("\n");
                     Console.WriteLine("---------------------Calling Get Operation------------------------");
                     Console.WriteLine("\n");
-                    Console.WriteLine("Please see below message returned by business service");
+                    Console.WriteLine("Please see below message returned by Business service");
                     Console.WriteLine("-----------------------------------------------------------");
                     Console.WriteLine(await res.Content.ReadAsStringAsync());
                     Console.ReadLine();
